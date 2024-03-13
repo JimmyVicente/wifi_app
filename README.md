@@ -19,3 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 ## For Export Docs
 - flutter pub global activate index_generator
 - flutter pub global run index_generator
+## For generate release
+- flutter build web --release
